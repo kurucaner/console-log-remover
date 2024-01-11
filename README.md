@@ -2,6 +2,12 @@
 
 Easily remove the most complex console.log() statements from your code.
 
+## How to use
+
+Cmd + Shift + P -> Console Log Remover
+or
+Alt + C
+
 ## Features
 
 1. Single-line comment console.log(): This is the case when we comment out a console.log(), like so:

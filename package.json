@@ -37,14 +37,24 @@
     "test": "vscode-test"
   },
   "devDependencies": {
-    "@types/vscode": "^1.85.0",
     "@types/mocha": "^10.0.6",
     "@types/node": "18.x",
+    "@types/vscode": "^1.85.0",
     "@typescript-eslint/eslint-plugin": "^6.15.0",
     "@typescript-eslint/parser": "^6.15.0",
-    "eslint": "^8.56.0",
-    "typescript": "^5.3.3",
     "@vscode/test-cli": "^0.0.4",
-    "@vscode/test-electron": "^2.3.8"
+    "@vscode/test-electron": "^2.3.8",
+    "c8": "^9.0.0",
+    "chai": "^5.0.0",
+    "eslint": "^8.56.0",
+    "eslint-config-eslint": "^9.0.0",
+    "eslint-plugin-jsdoc": "^48.0.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-release": "^3.2.1",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@eslint-community/eslint-utils": "^4.4.0",
+    "@eslint-community/regexpp": "^4.10.0"
   }
 }
