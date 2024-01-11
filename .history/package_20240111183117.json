@@ -1,5 +1,5 @@
 {
-  "name": "console-log-remover-wiz",
+  "name": "@wiz/console-log-remover",
   "displayName": "Console Log Remover - Advanced",
   "publisher": "SoftwareWizard",
   "repository": {

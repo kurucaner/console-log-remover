@@ -1,6 +1,6 @@
 {
   "name": "console-log-remover-wiz",
-  "displayName": "Console Log Remover - Advanced",
+  "displayName": "Console Log Remover",
   "publisher": "SoftwareWizard",
   "repository": {
     "type": "git",

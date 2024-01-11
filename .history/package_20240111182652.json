@@ -1,11 +1,7 @@
 {
-  "name": "console-log-remover-wiz",
-  "displayName": "Console Log Remover - Advanced",
+  "name": "console-log-remover",
+  "displayName": "Console Log Remover",
   "publisher": "SoftwareWizard",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/kurucaner/console-log-remover"
-  },
   "description": "Easily declutter your JavaScript and TypeScript files by removing all console.log statements with a single click. This VS Code extension efficiently scans your currently active file and strips out any console.log calls, helping you keep your code clean and production-ready. Perfect for developers looking to streamline their code before deployment.",
   "version": "0.0.1",
   "icon": "images/icon.png",
