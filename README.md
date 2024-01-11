@@ -11,21 +11,36 @@ Alt + C
 ## Features
 
 1. Single-line comment console.log(): This is the case when we comment out a console.log(), like so:
-   // console.log("foo")
+
+```js
+console.log("foo");
+```
 
 2. Single-line console.log() with single quotes:
-   console.log('boo')
+
+   ```js
+   console.log("boo");
+   ```
 
 3. Single-line console.log() with multiple arguments:
-   console.log('firstName', firstName)
+
+```js
+console.log("firstName", firstName);
+```
 
 4. Multiline console.log() statement:
+
+```js
    console.log(
    'hello'
    )
+```
 
 5. Nested parentheses:
-   console.log("user", getUser());
+
+```js
+   console.log("user", getUser(), "name", getName());
+```
 
 ### 0.0.1
 
